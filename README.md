@@ -1,5 +1,5 @@
 # Awesome Qt
-A curated list of awesome Qt libraries, resources, and shiny things. Inspired by awesome-cpp.
+A curated list of awesome Qt libraries, resources, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp).
 
 - [Awesome Qt](#awesome-qt)
     - [Compression](#compression)
