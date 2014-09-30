@@ -19,15 +19,12 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 ## Database
 * [QxOrm](http://www.qxorm.com) - QxOrm library is an Object Relational Mapping (ORM) library for C++/Qt developers.
 
-
 ## Game Engine
 * [Bacon2D](https://github.com/Bacon2D/Bacon2D) - Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [V-Play](http://v-play.net/) - V-Play Game Engine allows easy cross-platform mobile game development for all major platforms including iOS, Android, BlackBerry.
 
-
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
-
 
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
