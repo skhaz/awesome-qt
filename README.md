@@ -8,7 +8,7 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [Game Engine](#game-engine)
     - [Multimedia](#multimedia)
     - [Web Frameworks](#web-frameworks)
-
+- [Software](#software)
 
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
@@ -29,3 +29,5 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
+# Software
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
