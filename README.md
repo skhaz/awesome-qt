@@ -31,3 +31,5 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 
 # Software
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
+* [Tiled](http://www.mapedito.org/) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
+
