@@ -2,6 +2,7 @@
 A curated list of awesome Qt libraries, resources, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp).
 
 - [Awesome Qt](#awesome-qt)
+    - [Binding](#binding)
     - [Compression](#compression)
     - [Cryptography](#cryptography)
     - [Database](#database)
@@ -10,6 +11,10 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [Networking](#networking)
     - [Web Frameworks](#web-frameworks)
 - [Software](#software)
+
+## Binding
+* [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Digia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5. PyQt4 supports Qt v4 and will build against Qt v5. The bindings are implemented as a set of Python modules and contain over 620 classes.
+* [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
