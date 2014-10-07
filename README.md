@@ -13,7 +13,7 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 - [Software](#software)
 
 ## Binding
-* [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Digia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5. PyQt4 supports Qt v4 and will build against Qt v5. The bindings are implemented as a set of Python modules and contain over 620 classes.
+* [PyQt](http://www.riverbankcomputing.com/software/pyqt/) - PyQt is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. PyQt5 supports Qt v5.
 * [PySide](http://qt-project.org/wiki/PySide) - The PySide project provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
 
 ## Compression
@@ -34,6 +34,7 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 
 ## Networking
 * [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
+* [qxmpp](https://github.com/qxmpp-project/qxmpp) - Cross-platform C++ XMPP client and server library.
 
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
