@@ -7,6 +7,7 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
     - [Database](#database)
     - [Game Engine](#game-engine)
     - [Multimedia](#multimedia)
+    - [Networking](#networking)
     - [Web Frameworks](#web-frameworks)
 - [Software](#software)
 
@@ -25,6 +26,9 @@ A curated list of awesome Qt libraries, resources, and shiny things. Inspired by
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
+
+## Networking
+* [libmaia](https://github.com/wiedi/libmaia) - libmaia is a easy-to-use XML-RPC library for Qt.
 
 ## Web Frameworks
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
